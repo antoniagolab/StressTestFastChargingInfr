@@ -1,0 +1,9 @@
+,Germany1,Germany2,Italy,Czek,Slowakei,Hungary,Slowenien1,Slowenien2
+Germany1,0,0,0,134,476,3250,1317,1317
+Germany2,0,0,0,134,476,3250,1317,1317
+Italy,0,0,0,781,321,550,0,0
+Czek,134,134,781,0,300,89,390,390
+Slowakei,476,476,321,300,0,7,20,20
+Hungary,3250,3250,550,89,7,0,43,43
+Slowenien1,1317,1317,0,390,20,43,0,0
+Slowenien2,1317,1317,0,390,20,43,0,0
